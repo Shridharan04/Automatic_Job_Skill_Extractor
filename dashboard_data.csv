@@ -1,0 +1,20 @@
+Job_Role,Skill,Category,Demand_Count,Posting_Month
+Data Analyst,SQL,Database,420,2026-01
+Data Analyst,Excel,Analytics,380,2026-02
+Data Analyst,Power BI,Analytics,350,2026-03
+Data Analyst,Python,Programming,290,2026-03
+Data Analyst,Tableau,Analytics,260,2026-04
+Data Scientist,Python,Programming,510,2026-01
+Data Scientist,Machine Learning,Machine Learning,460,2026-02
+Data Scientist,SQL,Database,390,2026-03
+Data Scientist,Deep Learning,Machine Learning,280,2026-03
+Data Scientist,AWS,Cloud,230,2026-04
+Data Engineer,SQL,Database,480,2026-01
+Data Engineer,Python,Programming,410,2026-02
+Data Engineer,AWS,Cloud,390,2026-03
+Data Engineer,Spark,Database,340,2026-03
+Data Engineer,PostgreSQL,Database,270,2026-04
+Cloud Engineer,AWS,Cloud,530,2026-01
+Cloud Engineer,Docker,Cloud,360,2026-02
+Cloud Engineer,Linux,Programming,310,2026-03
+Cloud Engineer,Python,Programming,290,2026-04

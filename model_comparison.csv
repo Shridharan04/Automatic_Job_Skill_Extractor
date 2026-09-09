@@ -1,0 +1,7 @@
+Method,Precision,Recall,F1,Accuracy
+Dictionary Matching,0.85,0.45,0.59,0.6
+Regex Phrase Matching,0.88,0.65,0.75,0.72
+TF-IDF Statistical,0.6,0.7,0.65,0.65
+Custom spaCy NER,0.92,0.88,0.9,0.89
+ML Model (TF-IDF + LR),0.89,0.85,0.87,0.86
+Pre-trained Transformer (BERT),0.4,0.5,0.44,0.55
